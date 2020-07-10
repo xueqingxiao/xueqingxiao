@@ -4,7 +4,7 @@
   </samp>
   </br>
   </br>
-  <img src="https://github.com/xueqingxiao/xueqingxiao/blob/master/cyberpunk.gif?raw=true" />
+  <img src="https://raw.githubusercontent.com/xueqingxiao/xueqingxiao/master/dead-code.cp.gif" />
 </p>
 
 
